@@ -1,0 +1,13 @@
+# Misc
+.idea
+.DS_Store
+.vscode
+.zed
+
+# Playground
+playground
+
+# Sensitive information
+.key
+data
+.env
